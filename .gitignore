@@ -1,0 +1,11 @@
+# Ignore everything
+*
+# Except the following files
+!file1.txt
+!file2.txt
+
+# And except for all python files
+!*.py
+
+# '*' is everything
+
